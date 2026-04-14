@@ -1,0 +1,8 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Salário,receita,1700.00,entrada
+2025-10-03,Restaurante e almoço,refeição,450.00,saida
+2025-10-05,Netflix,lazer,55.90,saida
+2025-10-12,Uber,transporte,45.00,saida
+2025-10-20,Academia,saude,99.00,saida
+2025-10-25,Combustível,transporte,250.00,saida
+2026-04-15,Presente,lazer,250.00,saida
