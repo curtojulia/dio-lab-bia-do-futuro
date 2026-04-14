@@ -16,7 +16,7 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[]
+[Sim, alterei para um perfil mais jovem e parecido com o meu]
 
 ---
 
@@ -40,9 +40,9 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 ```
 Dados do Cliente:
-- Nome: João Silva
+- Nome: Júlia Dominguez
 - Perfil: Moderado
-- Saldo disponível: R$ 5.000
+- Saldo disponível: R$ 2.000
 
 Últimas transações:
 - 01/11: Supermercado - R$ 450
